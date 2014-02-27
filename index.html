@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+  <title>
+    Population Densities
+  </title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="common/d3.slider/d3.slider.css" />  
+  <link rel="stylesheet" href="common/bootstrap/css/bootstrap.css">
+  <link rel="stylesheet" href="common/bootstrap/css/grid.css">
+  <script src="common/jquery.js"></script>
+  <script src="common/queue.v1.min.js"></script>
+  <script src="common/d3.v3.min.js"></script>
+  <script src="common/packery.pkgd.min.js"></script>
+  <script src="common/d3.slider/d3.slider.js"></script>
+  <script src="common/transparentBarChart.js"></script>
+  <script src="js/cityMap.js"></script>
+  <script src="js/cityBarChart.js"></script>
+  <script src="js/compareCities.js"></script>
+  <script src="js/scatter.js"></script>
+  <script src="js/top10.js"></script>
+</head>
+<body>
+  <div class="container">
+
+    <div class="row">
+
+          <h1>The Biggest Downtowns</h1>
+          <h2>If American cities had the same geographic footprint, which would have the biggest population?</h2>
+
+    <div class="row">
+
+      <div class="col-sm-3">
+        <p>These are the top 10 cities by population in the United States, according to the 2010 Census</p>
+      </div>
+
+      <div id="top10pop" class="col-sm-9"></div>
+
+    </div>
+
+    <div class="row">
+      <div class="col-sm-3">
+        <p>But many of these are also huge, sprawling places.  Eight of the top ten cities by population are also in the top 25 cities by land area.  It's easy to fit lots of people within large city limits.  The scatter plot below shows land area and population of major American cities.  </p>
+      </div>
+
+      <div id="scatterplot-div" class="col-sm-9"></div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-3">
+        <p>So if all cities had the same geographic footprint, which would have the most people?  This chart shows the populations of the cities above, along with their surrounding metro areas for proper comparison.  The downtown populations are calculated using the population densities of concentric rings radiating out from the City Hall of each city.  Adjust the slider to set a common 'city limit' and see how many people live inside that limit in each metro area.  </p>
+      </div>
+      <div class="col-sm-9">
+        <text>Drag slider to adjust city boundary</text>
+        <div id="slider"></div>
+        <text>City limits: <span id="slidertext">0</span> miles from city hall</text>
+        <div id="compare-div"></div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-3">
+        <p>These are the 20 biggest metro areas by population, along with their respective population densities in rings moving out from central business district, in 1-mile increments</p>  
+      </div>
+      <div id="city-maps" class="col-sm-9"></div>
+    </div>
+
+  </div>
+  <script src="js/cityHall.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,101 @@
+2012_rank,city,state,pop_2012,pop,change,land_area,label
+1,New York,New York,8336697,8175133,1.9800%,302.6,1
+2,Los Angeles,California,3857799,3792621,1.7200%,468.7,1
+3,Chicago,Illinois,2714856,2695598,0.7100%,227.6,1
+4,Houston,Texas,2160821,2100263,2.8800%,599.6,1
+5,Philadelphia,Pennsylvania,1547607,1526006,1.4200%,134.1,1
+6,Phoenix,Arizona,1488750,1445632,2.9800%,516.7,1
+7,San Antonio,Texas,1382951,1327407,4.1800%,460.9,1
+8,San Diego,California,1338348,1307402,2.3700%,325.2,1
+9,Dallas,Texas,1241162,1197816,3.6200%,340.5,1
+12,Jacksonville,Florida,836507,821784,1.7900%,747,1
+14,San Francisco,California,825863,805235,2.5600%,46.9,0
+18,Detroit,Michigan,701475,713777,-1.7200%,138.8,0
+21,Boston,Massachusetts,636479,617594,3.0600%,48.3,0
+24,Washington,District of Columbia,632323,601723,5.0900%,61,0
+40,Atlanta,Georgia,443775,420003,5.6600%,133.2,0
+44,Miami,Florida,413892,399457,3.6100%,35.9,0
+63,Anchorage,Alaska,298610,291826,2.3200%,1704.7,1
+10,San Jose,California,982765,945942,3.8900%,176.5,1
+11,Austin,Texas,842592,790390,6.600%,297.9,0
+13,Indianapolis,Indiana,834852,820445,1.7600%,361.4,0
+15,Columbus,Ohio,809798,787033,2.8900%,217.2,0
+16,Fort Worth,Texas,777992,741206,4.9600%,339.8,0
+17,Charlotte,North Carolina,775202,731424,5.9900%,297.7,0
+19,El Paso,Texas,672538,649121,3.6100%,255.2,0
+20,Memphis,Tennessee,655155,646889,1.2800%,315.1,0
+22,Seattle,Washington,634535,608660,4.2500%,83.9,0
+23,Denver,Colorado,634265,600158,5.6800%,153,0
+25,Nashville,Tennessee,624496,601222,3.8700%,475.1,0
+26,Baltimore,Maryland,621342,620961,0.0600%,80.9,0
+27,Louisville,Kentucky,605110,597337,1.300%,325.2,0
+28,Portland,Oregon,603106,583776,3.3100%,133.4,0
+29,Oklahoma City,Oklahoma,599199,579999,3.3100%,606.4,0
+30,Milwaukee,Wisconsin,598916,594833,0.6900%,96.1,0
+31,Las Vegas,Nevada,596424,583756,2.1700%,135.8,0
+32,Albuquerque,New Mexico,555417,545852,1.7500%,187.7,0
+33,Tucson,Arizona,524295,520116,0.800%,226.7,0
+34,Fresno,California,505882,494665,2.2700%,112,0
+35,Sacramento,California,475516,466488,1.9400%,97.9,0
+36,Long Beach,California,467892,462257,1.2200%,50.3,0
+37,Kansas City,Missouri,464310,459787,0.9800%,315,0
+38,Mesa,Arizona,452084,439041,2.9700%,136.5,0
+39,Virginia Beach,Virginia,447021,437994,2.0600%,249,0
+41,Colorado Springs,Colorado,431834,416427,3.700%,194.5,0
+42,Raleigh,North Carolina,423179,403892,4.7800%,142.9,0
+43,Omaha,Nebraska,421570,408958,3.0800%,127.1,0
+45,Oakland,California,400740,390724,2.5600%,55.8,0
+46,Tulsa,Oklahoma,393987,391906,0.5300%,196.8,0
+47,Minneapolis,Minnesota,392880,382578,2.6900%,54,0
+48,Cleveland,Ohio,390928,396815,-1.4800%,77.7,0
+49,Wichita,Kansas,385577,382368,0.8400%,159.3,0
+50,Arlington,Texas,375600,365438,2.7800%,95.9,0
+51,New Orleans,Louisiana,369250,343829,7.3900%,169.4,0
+52,Bakersfield,California,358597,347483,3.200%,142.2,0
+53,Tampa,Florida,347645,335709,3.5600%,113.4,0
+54,Honolulu,Hawai'i,345610,337256,2.4800%,60.5,0
+55,Anaheim,California,343248,336265,2.0800%,49.8,0
+56,Aurora,Colorado,339030,325078,4.2900%,154.1,0
+57,Santa Ana,California,330920,324528,1.9700%,27.3,0
+58,St. Louis,Missouri,318172,319294,-0.3500%,61.9,0
+59,Riverside,California,313673,303871,3.2300%,81.1,0
+60,Corpus Christi,Texas,312195,305215,2.2900%,160.6,0
+61,Pittsburgh,Pennsylvania,306211,305704,0.1700%,55.4,0
+62,Lexington,Kentucky,310573,295803,4.9900%,283.6,0
+64,Stockton,California,297984,291707,2.1500%,61.7,0
+65,Cincinnati,Ohio,296550,296943,-0.1300%,77.9,0
+66,Saint Paul,Minnesota,290770,285068,2.00%,52,0
+67,Toledo,Ohio,284012,287208,-1.1100%,80.7,0
+68,Newark,New Jersey,277727,277140,0.2100%,24.2,0
+69,Greensboro,North Carolina,277080,269666,2.7500%,126.5,0
+70,Plano,Texas,272068,259841,4.7100%,71.6,0
+71,Henderson,Nevada,265679,257729,3.0800%,107.7,0
+72,Lincoln,Nebraska,265404,258379,2.7200%,89.1,0
+73,Buffalo,New York,259384,261310,-0.7400%,40.4,0
+74,Fort Wayne,Indiana,254555,253691,0.3400%,110.6,0
+75,Jersey City,New Jersey,254441,247597,2.7600%,14.8,0
+76,Chula Vista,California,252422,243916,3.4900%,49.6,0
+77,Orlando,Florida,249562,238300,4.7300%,102.4,0
+78,St. Petersburg,Florida,246541,244769,0.7200%,61.7,0
+79,Norfolk,Virginia,245782,242803,1.2300%,54.1,0
+80,Chandler,Arizona,245628,236123,4.0300%,64.4,0
+81,Laredo,Texas,244731,236091,3.6600%,88.9,0
+82,Madison,Wisconsin,240323,233209,3.0500%,76.8,0
+83,Durham,North Carolina,239358,228330,4.8300%,107.4,0
+84,Lubbock,Texas,236065,229573,2.8300%,122.4,0
+85,Winston–Salem,North Carolina,234349,229617,2.0600%,132.4,0
+86,Garland,Texas,233564,226876,2.9500%,57.1,0
+87,Glendale,Arizona,232143,226721,2.3900%,60,0
+88,Hialeah,Florida,231941,224669,3.2400%,21.5,0
+89,Reno,Nevada,231027,225221,2.5800%,103,0
+90,Baton Rouge,Louisiana,230058,229493,0.2500%,76.9,0
+91,Irvine,California,229985,212375,8.2900%,66.1,0
+92,Chesapeake,Virginia,228417,222209,2.7900%,340.8,0
+93,Irving,Texas,225427,216290,4.2200%,67,0
+94,Scottsdale,Arizona,223514,217385,2.8200%,183.9,0
+95,North Las Vegas,Nevada,223491,216961,3.0100%,101.3,0
+96,Fremont,California,221986,214089,3.6900%,77.5,0
+97,Gilbert,Arizona,221140,208453,6.0900%,68,0
+98,San Bernardino,California,213295,209924,1.6100%,59.2,0
+99,Boise,Idaho,212303,205671,3.2200%,79.4,0
+100,Birmingham,Alabama,212038,212237,-0.0900%,146.1,0

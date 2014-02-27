@@ -1,0 +1,87 @@
+/*html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	font: inherit;
+	font-size: 100%;
+	vertical-align: baseline;
+   font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: inherit;
+}
+
+h1 {
+	font-size:200%;
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
+   	margin-top:5px;
+	margin-bottom:0px;
+}
+h2 {
+	font-size: 18px;
+	margin-top:0px;
+	margin-bottom:10px;
+}
+h3 {
+	font-size: 12px;
+	font-style: italic;
+	color: grey;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+h4 {
+	font-size: 14px;
+	font-weight:600;
+	text-align: center;
+	margin-bottom:5px;
+}
+*/
+p {
+	text-align: left;
+	font-weight:bold;
+}
+
+/*scatter plot*/
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+.axis .label{
+    font-size:8pt;
+    font-family:sans-serif;
+}
+.dot {
+	fill: steelblue;	
+	opacity:0.6;
+}
+.trendline{
+	stroke:steelblue;
+	opacity:0.4;
+	stroke-width:5px;
+}
+.value{
+	font-size:8pt;
+}
+#map, .barchart-div{
+	width:480px;
+	height:260px;
+}
+.bar{
+	fill:#dedede;
+}
+#slider{
+	margin:10px 10px 20px 0px;
+}
+#slidertext{
+	font-weight:bold;
+}
